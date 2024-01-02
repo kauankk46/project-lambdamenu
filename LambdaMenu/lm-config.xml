@@ -9,12 +9,12 @@
 
 			<!--Menu Controls-->   
     <key function="toggle_main_menu" value="VK_F1"/> 
-    <key function="menu_up" value="VK_NUMPAD8"/> 
-    <key function="menu_down" value="VK_NUMPAD2"/> 
-    <key function="menu_left" value="VK_NUMPAD4"/> 
-    <key function="menu_right" value="VK_NUMPAD6"/> 
-    <key function="menu_select" value="VK_NUMPAD5"/> 
-    <key function="menu_back" value="VK_NUMPAD0"/>
+    <key function="menu_up" value="VK_8"/> 
+    <key function="menu_down" value="VK_2"/> 
+    <key function="menu_left" value="VK_4"/> 
+    <key function="menu_right" value="VK_6"/> 
+    <key function="menu_select" value="VK_5"/> 
+    <key function="menu_back" value="VK_0"/>
     
     <!--NoClip Controls-->
     <key function="toggle_noclip" value="VK_F2"/> 
